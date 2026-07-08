@@ -1,0 +1,14 @@
+# Local environment files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# XAMPP / local runtime files
+vendor/
+node_modules/
+
+# Uploads and generated content
+uploaded_img/*
